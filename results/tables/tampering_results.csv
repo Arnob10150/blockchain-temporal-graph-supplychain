@@ -1,0 +1,5 @@
+tamper_pct,corrupted_snapshots,detection_rate,RMSE_corrupted,R2_corrupted,RMSE_recovered,R2_recovered
+0,0,1.0,1217.55,0.5725,1217.55,0.5725
+1,16,1.0,1296.45,0.5153,1290.09,0.5201
+5,39,1.0,1521.48,0.3325,1412.39,0.4248
+10,44,1.0,1530.01,0.325,1822.79,0.0419

@@ -1,0 +1,17 @@
+{
+  "n_nodes": 41,
+  "n_edges": 179,
+  "T": 221,
+  "lookback": 14,
+  "features": [
+    "production",
+    "sales",
+    "issue",
+    "delivery"
+  ],
+  "n_train": 145,
+  "n_val": 31,
+  "n_test": 31,
+  "date_start": "2023-01-01",
+  "date_end": "2023-08-09"
+}

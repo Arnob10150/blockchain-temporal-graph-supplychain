@@ -1,0 +1,4 @@
+operation,mean_latency_ms,count,note
+SHA-256 snapshot hash,0.0153,221,"41-product snapshot, canonical JSON"
+Ledger register (off-chain map),0.0005,221,write-once insert
+Verify (rehash + compare),0.0153,1105,detects any content change

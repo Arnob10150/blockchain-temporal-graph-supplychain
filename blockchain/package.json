@@ -1,0 +1,8 @@
+{
+  "name": "trustworthy-supplychain-provenance",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "hardhat": "^2.22.0"
+  }
+}
